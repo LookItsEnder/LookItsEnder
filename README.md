@@ -21,7 +21,7 @@
         <li>HTML, JavaScript, CSS</li>
         <li>🐍 Python</li>
       </ul>
-      <h3>Languages I want to learn:</h3>  
+      <h3>Some things I plan to learn:</h3>  
       <ul>  
         <li>AVR Assembly</li>
         <li>C#</li>
