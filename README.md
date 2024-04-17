@@ -23,9 +23,10 @@
       </ul>
       <h3>Some things I plan to learn:</h3>  
       <ul>  
+        <li>Linux</li>
+        <li>SQL</li>
         <li>AVR Assembly</li>
         <li>C#</li>
-        <li>SQL</li>
       </ul>
     </section>
   </body>
