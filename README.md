@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <body> 
-    <h1>Hello, I’m @LookItsEnder, you can call me Ender! :)</h1>
+    <h1>Hello, I’m @LookItsEnder :)</h1>
     <section>
       <h3>Who am I?</h3>
       <p>I am a college student (dun dun duuun). When I am not accidentally blowing up electrical components on my breadboard or reading an incredibly long error message on my console, I am doing math for fun, or playing random games I find in my steam library.</p>
