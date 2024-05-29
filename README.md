@@ -27,7 +27,7 @@
       <ul>  
         <li>Linux</li>
         <li>C#</li>
-        <li>Machine Learning!</li>
+        <li>Machine Learning and AI!</li>
       </ul>
     </section>
   </body>
