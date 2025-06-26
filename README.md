@@ -11,7 +11,6 @@
       <ul> 
         <li>Current Vice President of the ACM Student Chapter at UW-Whitewater, Founder/Current President of the UWW Robotics Club.</li>
         <li>Most of my current work is in Hardware and very low level programming, I also enjoy looking into algorithms and seeing if I can make them more efficient.</li>
-        <li></li>
       </ul>
     </section>
     <section>
@@ -22,10 +21,10 @@
         <li>Scripting 🐍: Python, Bash</li>
         <li>Data Analytics 📈: SQL, mySQL</li>
         <li>Web 💻: HTML, JavaScript, node.js, CSS, PHP</li>
+        <li>Linux 🐧: Ubuntu/Debian, RedHat/Fedora</li>
       </ul>
       <h3>Some things I plan to learn</h3>  
       <ul>
-        <li>Linux - Doing 1 Distro a semester, so far I have Ubuntu, and Fedora under my belt</li>
         <li>C# or Rust</li>
         <li>Machine Learning and AI</li>
       </ul>
