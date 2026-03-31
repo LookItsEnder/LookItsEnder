@@ -4,7 +4,7 @@
     <h1>Hello, I’m @LookItsEnder :)</h1>
     <section>
       <h3>Who am I?</h3>
-      <p>I am currently finishing my undergrad at UW-Whitewater. When I am not building things with my breadboard and electrical components or diagnosing an incredibly long error message on my console, I'll be whiteboarding with my friends or solving a math problem...</p>
+      <p>I am currently pursuing my Master's Degree in Computer Science at UW-Whitewater. When I am not building things with my breadboard and electrical components or diagnosing an incredibly long error message on my console, I'll be whiteboarding with my friends or solving a math problem...</p>
     </section>
     <section>
       <h3>Some stuff about me:</h3>
