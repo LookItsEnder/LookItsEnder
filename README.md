@@ -16,7 +16,7 @@
     <section>
       <h3>Some Languages and Frameworks I have a general proficiency in:</h3>
       <ul>
-        <li>Object Oriented 🏗️: C++, Java</li>
+        <li>Object Oriented 🏗️: C#, C++, Java</li>
         <li>Embedded 🤓: Arduino, Raspberry Pi, ESP-32</li>
         <li>Scripting 🐍: Python, Bash</li>
         <li>Data Analytics 📈: SQL, mySQL</li>
@@ -25,7 +25,7 @@
       </ul>
       <h3>Some things I plan to learn</h3>  
       <ul>
-        <li>C# or Rust</li>
+        <li>Rust</li>
         <li>Machine Learning and AI</li>
       </ul>
     </section>
