@@ -10,7 +10,7 @@
       <h3>Some stuff about me:</h3>
       <ul> 
         <li>Current President of the ACM Student Chapter at UW-Whitewater, Founder of the UWW Robotics Club.</li>
-        <li>Most of my current work is in Hardware and very low level programming, I also enjoy looking into algorithms and seeing if I can make them more efficient.</li>
+        <li>Most of my current work is in Web Development, Hardware and Automation, I also enjoy looking into algorithms and seeing if I can make them more efficient.</li>
       </ul>
     </section>
     <section>
