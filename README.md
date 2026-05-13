@@ -20,7 +20,7 @@
         <li>Embedded 🤓: Arduino, Raspberry Pi, ESP-32</li>
         <li>Scripting 🐍: Python, Bash</li>
         <li>Data Analytics 📈: SQL, mySQL</li>
-        <li>Web 💻: HTML, JavaScript, node.js, CSS, PHP</li>
+        <li>Web 💻: ASP.NET Core, HTML, JavaScript, node.js, CSS, PHP</li>
         <li>Linux 🐧: Ubuntu/Debian, RedHat/Fedora, Manjaro</li>
       </ul>
       <h3>Some things I plan to learn</h3>  
